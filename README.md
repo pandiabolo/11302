@@ -1,4 +1,4 @@
-<img src="qrcode_table.png" width="200" height="200">
+<img src="exported_qrcode_image_600 (1).png" width="200" height="200">
 
 # 11302
 智慧城市導論
