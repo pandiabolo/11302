@@ -23,3 +23,6 @@
 |-------------------|---------|----------|---------|
 |智慧安防 | 智慧醫療 | 智慧教育 |  智慧金融 |
 |智慧能源 | 新創	   | AI+專區  |-----------|	
+
+<a href="[http://www.youtube.com/watch?feature=player_embedded&v=Di42x7_0z_I](https://youtu.be/C9lf7XAhI2g)" target="_blank"><img src="http://img.youtube.com/vi/C9lf7XAhI2g/0.jpg" 
+alt="亞維農表演" width="800" height="500" border="10" /></a>
